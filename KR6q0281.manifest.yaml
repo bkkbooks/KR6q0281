@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0281_000.yaml, hash: 'sha256:464deb1a26159d6c7ecf3c71b886aa81d25983cdedfb7a9c9e9bd70a68245cce'}
+  - {seq: 0, filename: KR6q0281_000.yaml, hash: 'sha256:0a110834bb5e58df40beb2cf3e121059e316b04cbce8063790952e7dc197e487'}
   - {seq: 1, filename: KR6q0281_001.yaml, hash: 'sha256:1cc8be5272dab34633df9924ec98f86c121401bf2043eb6456ecd1757c5b7091'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0281_000.markers.yaml, hash: 'sha256:df4c98aec369ca7d637d51a2e369c40baa494094f62cc2f49e51d6881c4b717e'}
+  - {seq: 0, role: markers, filename: assets/KR6q0281_000.markers.yaml, hash: 'sha256:047c93f9e62654ac34bbce467b97b06ea64260c3ef287d80acea5796f0b343f4'}
   - {seq: 1, role: markers, filename: assets/KR6q0281_001.markers.yaml, hash: 'sha256:867ddf55fc48c37a39f04de09e3fe400b1556f9a7c301258c822691434ccc3b0'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0281_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1346-A
@@ -527,7 +527,7 @@ table_of_contents:
   label: No. 1346-E
   type: mulu
   level: 1
-hash: sha256:73d29e2a77ddcfecbcc87e8a7ad8c48495ee45678b70a164363f12c74a11c3a2
+hash: sha256:919dc139a8b30ad4fcb0284f46bffb7356eb51477dd1785f8769dfeb5b891f14
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

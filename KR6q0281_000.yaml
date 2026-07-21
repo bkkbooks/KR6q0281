@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0281/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 東山和尚道高一世俯視諸方平居面目嚴冷學者不可得而親近或遭喝罵而出此真善知識慈悲慧升嘗獲侍其藥誨臨寂之時以其親刪語録相受皆斟酌古今發揚蘊奧禪衲竟編烏焉成馬念欲鏤正以廣其傳今始符所願亦季子挂劒之義矣於戲真正法眼不類常流大慧老人每以東山為稱今信道者咸生敬仰乃知南陽之鐘不待扣而鳴也時淳熙戊戌季冬朔日住雷峯此丘慧升拜序
   hash: sha256:ac0a3d015ed8327dac4f5553b187b05bdab169074c5dcf15c8835a5d3dcbdc6e
   markers:
   - {type: 序, offset: 0, content: No. 1346-A, id: KR6q0281_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 雪峰慧空禪師語錄
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X69/X69n1346.xml
     old_id: X69n1346
-hash: sha256:464deb1a26159d6c7ecf3c71b886aa81d25983cdedfb7a9c9e9bd70a68245cce
+hash: sha256:0a110834bb5e58df40beb2cf3e121059e316b04cbce8063790952e7dc197e487
